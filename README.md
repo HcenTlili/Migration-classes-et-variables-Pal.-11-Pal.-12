@@ -1,1 +1,2 @@
 # Migration-classes-et-variables-Pal.-11-Pal.-12
+un outil permettant de faciliter la migration des classes JAVA entre deux versions Palmyra 11 et Palmyra 12 propres à VERMEG . cet outil détecte les déclation de tous tous les variables selon le type choisi par l'utilisateur et détermine la liste des méthodes appliquées à chaque instance afin de modifier ces méthodes ultérieurement. Le travail a été réalisé en JAVA en récurant à SWING .
